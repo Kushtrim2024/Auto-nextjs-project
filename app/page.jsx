@@ -138,7 +138,7 @@ export default function Home() {
           filteredBrands.map((brand, index) => (
             <div key={index} style={{ textAlign: "center" }}>
               <a href={brand.url} target="_blank" rel="noopener noreferrer">
-                <Image
+                <img
                   src={brand.logo}
                   alt={brand.name}
                   width={100}
