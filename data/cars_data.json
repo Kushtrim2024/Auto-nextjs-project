@@ -81,12 +81,12 @@
     "id": 5,
     "name": "Renault Trafic",
     "brand": "Renault",
-    "price": 70185,
+    "price": 24500,
     "description": "Spacious, stylish, and affordable.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/1Du60eg6S9LJroFEajwcj7-79425941bf15fb1cd2c544a2695145dd-r190876p-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/1Du60eg6S9LJroFEajwcj7-79425941bf15fb1cd2c544a2695145dd-r190876p-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/1Du60eg6S9LJroFEajwcj7-79425941bf15fb1cd2c544a2695145dd-r190876p-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/97694981-d1ba-4011-84f8-6d8337081452_3ae5593d-461a-45b5-badb-1c1e5e495039.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/97694981-d1ba-4011-84f8-6d8337081452_49d8d3ed-deeb-4b42-bf71-13a3c0b3be3e.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/97694981-d1ba-4011-84f8-6d8337081452_3bc21d4a-e43b-40ef-9e8f-60ae15510491.jpg"
     ],
     "mileage": "68,731 km",
     "gearbox": "Automatic",
@@ -100,12 +100,12 @@
     "id": 6,
     "name": "Hyundai i30",
     "brand": "Hyundai",
-    "price": 45950,
+    "price": 15900,
     "description": "Luxurious interior and smooth handling.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/4gDVl2kfP0XdnZIB2C7RqG-ef7480cef72cd3936c53489a83545883-hyundai-i30-back-1100.jpeg",
-      "https://www.autoscout24.de/cms-content-assets/4gDVl2kfP0XdnZIB2C7RqG-ef7480cef72cd3936c53489a83545883-hyundai-i30-back-1100.jpeg",
-      "https://www.autoscout24.de/cms-content-assets/4gDVl2kfP0XdnZIB2C7RqG-ef7480cef72cd3936c53489a83545883-hyundai-i30-back-1100.jpeg"
+      "https://prod.pictures.autoscout24.net/listing-images/35a8950b-296e-4d70-abad-1d60a17f7158_1ba84e1a-0ae4-49d8-b7bc-2f2b5bcfd685.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/35a8950b-296e-4d70-abad-1d60a17f7158_a8ed426f-4851-45c7-ac5f-88e36c0f927f.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/35a8950b-296e-4d70-abad-1d60a17f7158_2d2eeb52-795d-4241-940a-66906adbe843.jpg"
     ],
     "mileage": "82,000 km",
     "gearbox": "Manual",
@@ -119,12 +119,12 @@
     "id": 7,
     "name": "Ford Puma",
     "brand": "Ford",
-    "price": 58250,
+    "price": 14900,
     "description": "Advanced technology and safety features.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/4LyQ4o04prcmn5lhYl5Ycv-bc4e670c407607c201353d01d935851c-ford-puma-front-1100.jpeg",
-      "https://www.autoscout24.de/cms-content-assets/4LyQ4o04prcmn5lhYl5Ycv-bc4e670c407607c201353d01d935851c-ford-puma-front-1100.jpeg",
-      "https://www.autoscout24.de/cms-content-assets/4LyQ4o04prcmn5lhYl5Ycv-bc4e670c407607c201353d01d935851c-ford-puma-front-1100.jpeg"
+      "https://prod.pictures.autoscout24.net/listing-images/c91d2ba0-1865-47d4-903e-ed79fb3c5949_8edb14c6-e233-4e12-b98c-82b69d6dd0a9.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/c91d2ba0-1865-47d4-903e-ed79fb3c5949_8119ac59-35f7-4c77-b154-78f71ad62034.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/c91d2ba0-1865-47d4-903e-ed79fb3c5949_81694245-1c26-4418-b5f8-56c8a6fe0503.jpg"
     ],
     "mileage": "82,000 km",
     "gearbox": "Manual",
@@ -138,12 +138,12 @@
     "id": 8,
     "name": "Toyota Supra",
     "brand": "Toyota",
-    "price": 92289,
+    "price": 62289,
     "description": "Advanced technology and safety features.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/bW9dYLd55co2dpMU5T7Hr-88154f34703d58d671ca7a89928f1fde-toyota-supra-2019-34-1-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/bW9dYLd55co2dpMU5T7Hr-88154f34703d58d671ca7a89928f1fde-toyota-supra-2019-34-1-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/bW9dYLd55co2dpMU5T7Hr-88154f34703d58d671ca7a89928f1fde-toyota-supra-2019-34-1-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/f8ca30b8-f24e-4b96-8114-a1dd1699a9e5_99b0ad1e-6d16-49f9-8d5f-587d8b2a1999.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/f8ca30b8-f24e-4b96-8114-a1dd1699a9e5_5b73465f-f431-40b7-95a4-c7fc7ba1b609.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/f8ca30b8-f24e-4b96-8114-a1dd1699a9e5_a081bb91-aed3-420b-978d-c8fcefa08fd3.jpg"
     ],
     "mileage": "82,000 km",
     "gearbox": "Manual",
@@ -157,12 +157,12 @@
     "id": 9,
     "name": "Kia Sportage",
     "brand": "Kia",
-    "price": 40277,
+    "price": 25277,
     "description": "A sporty design with high performance.",
     "image": [
-      "https://prod.pictures.autoscout24.net/listing-images/489a65c9-c397-4aa6-9f9f-ec7e2381a76a_09a4d3a3-8363-44a4-8681-38a89b70581f.jpg",
-      "https://prod.pictures.autoscout24.net/listing-images/489a65c9-c397-4aa6-9f9f-ec7e2381a76a_199f28d7-f4f7-4037-867b-4151016d2e55.jpg",
-      "https://prod.pictures.autoscout24.net/listing-images/489a65c9-c397-4aa6-9f9f-ec7e2381a76a_ea3737e6-7d89-4457-9f27-c703bf89a887.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/20ffac1f-8b3c-4381-9dd9-e15d30dce41e_81a557a0-2e9d-4ed1-a26a-9ad9ce4153a4.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/20ffac1f-8b3c-4381-9dd9-e15d30dce41e_a55a8c63-c43f-4547-a193-dbed24053688.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/20ffac1f-8b3c-4381-9dd9-e15d30dce41e_7cfc4512-ef1d-4410-86e1-80ce7972fb71.jpg"
     ],
     "mileage": "82,000 km",
     "gearbox": "Manual",
@@ -176,12 +176,12 @@
     "id": 10,
     "name": "VW Arteon",
     "brand": "VW",
-    "price": 60672,
+    "price": 25999,
     "description": "Perfect for city driving and long trips.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/5nAuCbKYFgDYtJMe4c4Ioo-5d6a5d49ba6775b2bc7b0e06f55c990b-vw-arteon-front-1100.webp",
-      "https://www.autoscout24.de/cms-content-assets/6iQFbRIBlLUxmn71fsfwYb-8183b9c038ea1d9aace7ce64e215489d-vw-arteon-side-1100.webp",
-      "https://www.autoscout24.de/cms-content-assets/4IsmvtZbVx6Jyk0VShBcf1-e802e145588bc66774cf53e10a5fe640-vw-arteon-back-1100.webp"
+      "https://prod.pictures.autoscout24.net/listing-images/c22e1435-6df4-44ff-8858-85bf9c82fd6a_91de9eca-95a2-47ff-a407-49393316fd07.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/c22e1435-6df4-44ff-8858-85bf9c82fd6a_20fe13cd-02c9-4325-bd59-e95e5482c732.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/c22e1435-6df4-44ff-8858-85bf9c82fd6a_e7c6207b-4b13-41d4-a3e8-56ed7d92dfd7.jpg"
     ],
     "mileage": "82,000 km",
     "gearbox": "Manual",
@@ -198,9 +198,9 @@
     "price": 79727,
     "description": "Luxurious interior and smooth handling.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/4oCjv8b6KzRUrR61Webc2v-0f4328a46819acec9a89d8ec5b95bfe8-BMW-M3-Touring-Front-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/4oCjv8b6KzRUrR61Webc2v-0f4328a46819acec9a89d8ec5b95bfe8-BMW-M3-Touring-Front-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/4oCjv8b6KzRUrR61Webc2v-0f4328a46819acec9a89d8ec5b95bfe8-BMW-M3-Touring-Front-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/95c8d627-4356-4fe2-8048-60d44c8b713d_9ba6eb2d-0ff0-41cb-8983-57816210a7b1.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/95c8d627-4356-4fe2-8048-60d44c8b713d_b3e1e6de-5655-414e-82c4-ed12c13ce556.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/95c8d627-4356-4fe2-8048-60d44c8b713d_b57506e3-fc78-4b24-a6f2-1cccb141821b.jpg"
     ],
     "mileage": "68,731 km",
     "gearbox": "Automatic",
@@ -214,12 +214,12 @@
     "id": 12,
     "name": "Hyundai i20",
     "brand": "Hyundai",
-    "price": 46253,
+    "price": 13250,
     "description": "A sporty design with high performance.",
     "image": [
-      "https://prod.pictures.autoscout24.net/listing-images/2729ae76-bbb1-4960-86a3-e83dead9a03e_dabcbfea-cc3f-4ffb-8d26-77a11b0fee99.jpg",
-      "https://prod.pictures.autoscout24.net/listing-images/2729ae76-bbb1-4960-86a3-e83dead9a03e_6ed9c596-1427-4334-9e2b-8068bd6ef8f3.jpg",
-      "https://prod.pictures.autoscout24.net/listing-images/2729ae76-bbb1-4960-86a3-e83dead9a03e_a51f0f91-d046-4add-9123-cc596a20e86c.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/06a33d4c-fdd2-417c-a287-6872aa55478f_e613b7e3-788e-44c7-ab7d-a0dc92be30d7.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/06a33d4c-fdd2-417c-a287-6872aa55478f_de6076e0-437b-4610-bf16-bc2db796160d.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/06a33d4c-fdd2-417c-a287-6872aa55478f_e24c8837-b68e-47ed-b716-3b8b59a17796.jpg"
     ],
     "mileage": "68,731 km",
     "gearbox": "Automatic",
@@ -233,12 +233,12 @@
     "id": 13,
     "name": "Peugeot e-408",
     "brand": "Peugeot",
-    "price": 82517,
+    "price": 28500,
     "description": "A sporty design with high performance.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/5Qsyq6RuU5YkQbinCrdDoe-0d06743c3466aa61b7c08d5b9bb8fd78-as1-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/5Qsyq6RuU5YkQbinCrdDoe-0d06743c3466aa61b7c08d5b9bb8fd78-as1-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/5Qsyq6RuU5YkQbinCrdDoe-0d06743c3466aa61b7c08d5b9bb8fd78-as1-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/1e4f187d-e2a8-48c7-a002-bd47badf1a7b_7c580a7a-7f88-4ec6-8d4b-559eb06acf68.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/1e4f187d-e2a8-48c7-a002-bd47badf1a7b_baefe715-2a53-4fad-be5b-c41ac8b50b49.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/1e4f187d-e2a8-48c7-a002-bd47badf1a7b_a2684756-dc17-435f-bcd0-6f0d9625cb99.jpg"
     ],
     "mileage": "68,731 km",
     "gearbox": "Automatic",
@@ -269,14 +269,14 @@
   },
   {
     "id": 15,
-    "name": "Kia k5",
+    "name": "Kia Stonic",
     "brand": "Kia",
-    "price": 40799,
+    "price": 15500,
     "description": "Advanced technology and safety features.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/2FqQbhfojqVpT5hrj95LfP-2c62d6601c81e541d816f9fd492fda0d-kia-optima-front2-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/2FqQbhfojqVpT5hrj95LfP-2c62d6601c81e541d816f9fd492fda0d-kia-optima-front2-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/2FqQbhfojqVpT5hrj95LfP-2c62d6601c81e541d816f9fd492fda0d-kia-optima-front2-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/a7494e05-7e2f-44da-81b6-8b97d0f3bd06_849d674f-4ef0-49d7-a1a1-d8f2ae522382.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/a7494e05-7e2f-44da-81b6-8b97d0f3bd06_ed504dd4-261f-41c9-a069-3009617bd336.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/a7494e05-7e2f-44da-81b6-8b97d0f3bd06_59b426df-7358-4471-8d6b-caa66ce71a3d.jpg"
     ],
     "mileage": "68,731 km",
     "gearbox": "Automatic",
@@ -290,12 +290,12 @@
     "id": 16,
     "name": "Volkswagen Multivan",
     "brand": "VW",
-    "price": 97540,
+    "price": 32500,
     "description": "Advanced technology and safety features.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/2BIsqs8HyoP2N2JQ6pkHSQ-b5376550386c6aa527cc048d34fb0f84-Volkswagen-Multivan-2022-1280-01-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/2BIsqs8HyoP2N2JQ6pkHSQ-b5376550386c6aa527cc048d34fb0f84-Volkswagen-Multivan-2022-1280-01-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/2BIsqs8HyoP2N2JQ6pkHSQ-b5376550386c6aa527cc048d34fb0f84-Volkswagen-Multivan-2022-1280-01-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/bde833ad-55cf-4b39-91b4-c5ba10c431bf_8d48359d-eea8-4f95-ab4d-7bab9d741797.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/bde833ad-55cf-4b39-91b4-c5ba10c431bf_e8b76574-35ab-49c6-a272-ee98a78abcaf.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/bde833ad-55cf-4b39-91b4-c5ba10c431bf_12f50347-7d59-492d-bd2b-b237962e429f.jpg"
     ],
     "mileage": "82,000 km",
     "gearbox": "Manual",
@@ -309,12 +309,12 @@
     "id": 17,
     "name": "Renault ZOE",
     "brand": "Renault",
-    "price": 40319,
+    "price": 10500,
     "description": "Perfect for city driving and long trips.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/1myMtpar64cAwZRlIZufHg-cf0e4d1f74a489e237c5d504c6fb5c58-renault-zoe-e-tech-electric-front-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/1myMtpar64cAwZRlIZufHg-cf0e4d1f74a489e237c5d504c6fb5c58-renault-zoe-e-tech-electric-front-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/1myMtpar64cAwZRlIZufHg-cf0e4d1f74a489e237c5d504c6fb5c58-renault-zoe-e-tech-electric-front-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/6a915955-da9b-4e2f-b355-4ee8442c4120_56d1fee4-3737-43dc-9b77-e737705d242c.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/6a915955-da9b-4e2f-b355-4ee8442c4120_b8fd74d2-3c75-4e29-9a0d-6da9e7d309f6.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/6a915955-da9b-4e2f-b355-4ee8442c4120_4d463a4d-2825-4a9d-9bf4-6e929cda2a37.jpg"
     ],
     "mileage": "82,000 km",
     "gearbox": "Manual",
@@ -328,7 +328,7 @@
     "id": 18,
     "name": "Mercedes-Benz AMG",
     "brand": "Mercedes-Benz",
-    "price": 79258,
+    "price": 49500,
     "description": "Spacious, stylish, and affordable.",
     "image": [
       "https://prod.pictures.autoscout24.net/listing-images/794f46cc-1f3c-4fd7-afe2-90f07b8a6413_84fc0723-fb88-435e-b935-012943693f67.jpg",
@@ -345,14 +345,14 @@
   },
   {
     "id": 19,
-    "name": "Renault Suv",
+    "name": "Renault Alaskan",
     "brand": "Renault",
-    "price": 59786,
+    "price": 29800,
     "description": "Spacious, stylish, and affordable.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/2woVH4hwj0dAJeCtYeXcDy-deb96b6d1713716ba9e285acacf69fd2-renault-captur-front-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/2woVH4hwj0dAJeCtYeXcDy-deb96b6d1713716ba9e285acacf69fd2-renault-captur-front-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/2woVH4hwj0dAJeCtYeXcDy-deb96b6d1713716ba9e285acacf69fd2-renault-captur-front-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/577084db-c339-4e9a-98d9-f45f0b306489_dc476415-866c-4c01-8f61-891031582d1b.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/577084db-c339-4e9a-98d9-f45f0b306489_a8287662-5a3a-4d18-8119-9aeec8e56af0.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/577084db-c339-4e9a-98d9-f45f0b306489_b5c0d656-c580-4cdd-a7c9-82a9b4faad2a.jpg"
     ],
     "mileage": "82,000 km",
     "gearbox": "Manual",
@@ -366,14 +366,14 @@
     "id": 20,
     "name": "Hyundai Kona",
     "brand": "Hyundai",
-    "price": 87552,
+    "price": 19500,
     "description": "Perfect for city driving and long trips.",
     "image": [
-      "https://www.autoscout24.de/cms-content-assets/4EFKOM2pmiXY9oV0sd2ZeX-5399235a8ae5e38e6b228545147b12f0-hyundai_kona_hybrid__37_-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/4EFKOM2pmiXY9oV0sd2ZeX-5399235a8ae5e38e6b228545147b12f0-hyundai_kona_hybrid__37_-1100.jpg",
-      "https://www.autoscout24.de/cms-content-assets/4EFKOM2pmiXY9oV0sd2ZeX-5399235a8ae5e38e6b228545147b12f0-hyundai_kona_hybrid__37_-1100.jpg"
+      "https://prod.pictures.autoscout24.net/listing-images/2b818133-a01d-43fd-87e8-338b4e9d11cf_df244e2a-a660-4ff0-8ef4-a9f83731671e.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/2b818133-a01d-43fd-87e8-338b4e9d11cf_e0b56d4b-88e5-4cb6-a0ab-f77aa29289c9.jpg",
+      "https://prod.pictures.autoscout24.net/listing-images/2b818133-a01d-43fd-87e8-338b4e9d11cf_cfa4f65e-b5a0-45d3-b63c-e63ecc7084fd.jpg"
     ],
-    "mileage": "68,731 km",
+    "mileage": "88,731 km",
     "gearbox": "Automatic",
     "firstRegistration": "01/2014",
     "fuelType": "Gasoline",

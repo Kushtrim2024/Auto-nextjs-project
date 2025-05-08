@@ -2,6 +2,7 @@
 import React from "react";
 import Link from "next/link";
 import "../styles/footer.css";
+import Image from "next/image";
 
 export default function Footer() {
   console.log(typeof window === "undefined" ? "server" : "client");

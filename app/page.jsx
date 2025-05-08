@@ -5,6 +5,7 @@ import Header from "@/components/VideoPlayer";
 import { useState } from "react";
 import TypingEffect from "@/components/Typingeffect";
 import Link from 'next/link';
+import { ImageAlignment } from "pdf-lib";
 
 
 

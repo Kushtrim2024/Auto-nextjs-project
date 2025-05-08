@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 // pages/about.js
 export default function About() {
   return (
@@ -20,9 +22,9 @@ export default function About() {
   <div>
   <h3 className="text-blue-950 font-extrabold ">Cihan Ünal</h3>
   <div className="flex flex-wrap gap-4">
-  <img src="/Cihan_Model.png" alt="Cihan Ünal" className="rounded-xl w-60 h-auto mb-4" />
-  <img src="/Cihan_Model2.png" alt="Cihan Ünal" className="rounded-xl w-60 h-auto mb-4" />
-  <img src="/Cihan_Model3.png" alt="Cihan Ünal" className="rounded-xl w-60 h-auto mb-4" />
+  <Image src="/Cihan_Model.png" alt="Cihan Ünal" className="rounded-xl w-60 h-auto mb-4" />
+  <Image src="/Cihan_Model2.png" alt="Cihan Ünal" className="rounded-xl w-60 h-auto mb-4" />
+  <Image src="/Cihan_Model3.png" alt="Cihan Ünal" className="rounded-xl w-60 h-auto mb-4" />
   </div>
   <p className="text-gray-500 font-extrabold">Founder & CEO</p>
   <p className="text-gray-500 mb-8">Cihan is a car enthusiast with a passion for performance and innovation. He leads our team with vision and expertise.</p>
@@ -30,9 +32,9 @@ export default function About() {
   <div>
   <h3 className="text-blue-950 font-extrabold ">Randy Born</h3>
   <div className="flex flex-wrap gap-4">
-  <img src="/Randy1.png" alt="Randy Born" className="rounded-xl w-60 h-auto mb-4" />
-  <img src="/Randy2.png" alt="Randy Born" className="rounded-xl w-60 h-auto mb-4" />
-  <img src="/Randi3.png" alt="Randy Born" className="rounded-xl w-60 h-auto mb-4" />
+  <Image src="/Randy1.png" alt="Randy Born" className="rounded-xl w-60 h-auto mb-4" />
+  <Image src="/Randy2.png" alt="Randy Born" className="rounded-xl w-60 h-auto mb-4" />
+  <Image src="/Randi3.png" alt="Randy Born" className="rounded-xl w-60 h-auto mb-4" />
   </div>
   <p className="text-gray-500 font-extrabold">Head of Customization</p>
   <p className="text-gray-500 mb-8">Randy is our customization expert, turning dreams into reality with his creative designs and technical skills.</p>
@@ -41,7 +43,7 @@ export default function About() {
   <h3 className="text-blue-950 font-extrabold ">Kushtrim Bilali</h3>
   <div className="flex flex-wrap gap-4">
     
-    <img src="/Kushtrim1.png" alt="Kushtrim Bilali" className="rounded-xl w-60 h-auto mb-4" />
+    <Image src="/Kushtrim1.png" alt="Kushtrim Bilali" className="rounded-xl w-60 h-auto mb-4" />
     </div>
     <p className="text-gray-500 font-extrabold">Lead Technician</p>
     <p className="text-gray-500">Kushtrim is our lead technician, ensuring every vehicle meets our high standards of quality and performance.</p>

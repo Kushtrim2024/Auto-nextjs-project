@@ -1,5 +1,6 @@
 
 import useEmblaCarousel from 'embla-carousel-react';
+import Image from 'next/image';
 import { useCallback, useEffect, useState } from 'react';
 
 export default function EmblaCarousel({ slides = [] }) {
@@ -30,7 +31,10 @@ export default function EmblaCarousel({ slides = [] }) {
       <div className="flex">
         {slides.map((src, index) => (
           <div key={index} className='relative flex-shrink-0 w-full'>
-            <img src={src} alt={`Car image ${index + 1}`} />
+            <Image 
+            src={src} alt={`Car image ${index + 1}`}
+            width={720} 
+            height={540}/>
           </div>
         ))}
       </div>

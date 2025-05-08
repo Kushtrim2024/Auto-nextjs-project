@@ -16,6 +16,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { Star } from "lucide-react";
 import { FavoritesContext } from "@/app/favoritecontext/page";
+import Image from "next/image";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -91,11 +92,12 @@ export default function Navbar() {
 
           <div className="absolute -top-52 left-4 border-4 border-fuchsia-300 rounded-full animate-pulse">
 
-            <img
+            <Image
               src="/Krc_car_logo.png"
               alt="Logo"
               className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 rounded-full bg-blue-950"
-            />
+              width={64} 
+              height={64}          />
           </div>
         </Link>
 
