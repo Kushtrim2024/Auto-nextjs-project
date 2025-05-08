@@ -114,7 +114,7 @@ export default function FavoritesPage() {
 
       // Embed the image into the PDF if available
       if (imgBytes) {
-        const img = validImageUrl.endsWith(".webp")
+        const img = validImageUrl.endsWith(".png")
           ? await pdfDoc.embedPng(imgBytes)
           : await pdfDoc.embedJpg(imgBytes);
 
