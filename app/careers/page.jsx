@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import React from "react";
 
 function CareersPage() {
@@ -33,7 +34,7 @@ function CareersPage() {
         </p>
 
         <div className="mt-6">
-          <img
+          <Image
             src="https://nhscareersnw.co.uk/wp-content/uploads/2023/10/pop-banner-image-1.png"
             alt="Join our team"
             className="mx-auto rounded-xl shadow-md w-full max-w-md"

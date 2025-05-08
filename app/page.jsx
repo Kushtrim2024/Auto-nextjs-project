@@ -5,6 +5,7 @@ import Header from "@/components/VideoPlayer";
 import { useState } from "react";
 import TypingEffect from "@/components/Typingeffect";
 import Link from 'next/link';
+import { ImageAlignment } from "pdf-lib";
 
 
 
@@ -137,7 +138,7 @@ export default function Home() {
           filteredBrands.map((brand, index) => (
             <div key={index} style={{ textAlign: "center" }}>
               <a href={brand.url} target="_blank" rel="noopener noreferrer">
-                <img
+                <Image
                   src={brand.logo}
                   alt={brand.name}
                   width={100}
