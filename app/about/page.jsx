@@ -29,16 +29,22 @@ export default function About() {
                   src="/Cihan_Model.png"
                   alt="Cihan Ünal"
                   className="rounded-xl w-60 h-auto mb-4"
+                  width={240}
+                  height={320}
                 />
                 <Image
                   src="/Cihan_Model2.png"
                   alt="Cihan Ünal"
                   className="rounded-xl w-60 h-auto mb-4"
+                  width={240}
+                  height={320}
                 />
                 <Image
                   src="/Cihan_Model3.png"
                   alt="Cihan Ünal"
                   className="rounded-xl w-60 h-auto mb-4"
+                  width={240}
+                  height={320}
                 />
               </div>
               <p className="text-gray-500 font-extrabold">Founder & CEO</p>
@@ -54,16 +60,22 @@ export default function About() {
                   src="/Randy1.png"
                   alt="Randy Born"
                   className="rounded-xl w-60 h-auto mb-4"
+                  width={240}
+                  height={320}
                 />
                 <Image
                   src="/Randy2.png"
                   alt="Randy Born"
                   className="rounded-xl w-60 h-auto mb-4"
+                  width={240}
+                  height={320}
                 />
                 <Image
                   src="/Randi3.png"
                   alt="Randy Born"
                   className="rounded-xl w-60 h-auto mb-4"
+                  width={240}
+                  height={320}
                 />
               </div>
               <p className="text-gray-500 font-extrabold">
@@ -81,6 +93,8 @@ export default function About() {
                   src="/Kushtrim1.png"
                   alt="Kushtrim Bilali"
                   className="rounded-xl w-60 h-auto mb-4"
+                  width={240}
+                  height={320}
                 />
               </div>
               <p className="text-gray-500 font-extrabold">Lead Technician</p>
