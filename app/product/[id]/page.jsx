@@ -59,7 +59,7 @@ export default function ProductDetail({ params }) {
         </Link>
         <div className="flex flex-col md:flex-row items-center justify-around gap-8 mb-6 ">
           {product.image ? (
-            <div className="w-2xl rounded-xl overflow-hidden">
+            <div className=" rounded-xl overflow-hidden sm:w-3/5 md:w-1/2 lg:w-1/2">
               <EmblaCarousel
                 slides={
                   Array.isArray(product.image) ? product.image : [product.image]
