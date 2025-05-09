@@ -2,7 +2,6 @@
 import React from "react";
 import Link from "next/link";
 import "../styles/footer.css";
-import Image from "next/image";
 
 export default function Footer() {
   console.log(typeof window === "undefined" ? "server" : "client");
@@ -44,7 +43,7 @@ export default function Footer() {
                 <Link href="/careers">Careers</Link>
               </li>
               <li>
-                <Link href="/rateus">Rate Us</Link>
+                <Link href="/rateUsPage">Rate Us</Link>
               </li>
               <li>
                 <Link href="https://cars.mclaren.press/" target="_blank">
