@@ -1,6 +1,4 @@
 import Image from "next/image";
-
-// pages/about.js
 export default function About() {
   return (
     <>
