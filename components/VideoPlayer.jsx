@@ -4,7 +4,7 @@ import React from "react";
 const VideoPlayer = () => {
   return (
     <section className="videoContainer">
-      <div className="relative w-full h-80 overflow-hidden">
+      <div className="relative w-full h-80 overflow-hidden md:h-96 sm:h-72">
         <video
           className="absolute top-0 left-0 w-full h-full object-cover"
           autoPlay
