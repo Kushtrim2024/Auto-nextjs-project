@@ -118,14 +118,15 @@ export default function FavoritesPage() {
           ? await pdfDoc.embedPng(imgBytes)
           : await pdfDoc.embedJpg(imgBytes);
 
-        const { width, height } = img.scale(0.4);
+          const scale = 360 / img.width; // z.B. 360 / 720 = 0.5
+const { width, height } = img.scale(scale);
 
-        page.drawImage(img, {
-          x: 50,
-          y: y - height - 20,
-          width,
-          height,
-        });
+page.drawImage(img, {
+  x: 50,
+  y: y - height - 20,
+  width,
+  height,
+});
       }
 
       // Footer
@@ -160,13 +161,13 @@ export default function FavoritesPage() {
   };
 
   return (
-    <div className="p-4 w-2/3 mx-auto -mt-36">
+    <div className="p-4 w-4/5 sd:w-full mx-auto -mt-36">
       <h1 className="text-2xl font-semibold mb-4">Your Favorites</h1>
       <div className="space-y-4">
         {favorites.map((product) => (
           <li
             key={product.id}
-            className="flex flex-col md:flex-row items-center justify-between gap-6 border p-4 rounded-md shadow-sm"
+            className="flex flex-col w-full md:flex-row items-center justify-between gap-6 border p-4 rounded-md shadow-sm"
           >
             <div className="w-full md:w-1/2 rounded-4xl overflow-hidden ">
               {product.image ? (
@@ -183,7 +184,7 @@ export default function FavoritesPage() {
             </div>
 
             <div className="flex gap-4 flex-col w-full md:w-1/2">
-              <h1 className="text-3xl font-bold mb-4">{product.name}</h1>
+              <h1 className="text-2xl  font-bold mb-4">{product.name}</h1>
               <p className="text-gray-700 mb-8 border-b-1 pb-8 border-gray-200">
                 {product.description}
               </p>

@@ -46,12 +46,12 @@ const Impressum = () => {
           </p>
 
           <p>
-            <strong>EU Online Dispute Resolution Platform:</strong>
+            <strong className="text-base sm:text-xs md:text-base lg:text-lg xl:text-xl">EU Online Dispute Resolution Platform:</strong>
             <a
               href="https://ec.europa.eu/consumers/odr"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-blue-600"
+              className="text-blue-600 text-base sm:text-xs md:text-base lg:text-lg xl:text-xl"
             >
               https://ec.europa.eu/consumers/odr
             </a>

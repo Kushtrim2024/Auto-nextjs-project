@@ -18,7 +18,7 @@ export default function ProductFilter() {
       : products;
   
     return (
-      <div className="max-w-6xl mx-auto p-6 -mt-22">
+      <div className="w-4/5 mx-auto p-6 -mt-22">
         <div className="mb-6">
   <label className="block text-lg font-medium mb-2 text-blue-950">Choose a Brand:</label>
   <select
@@ -35,7 +35,7 @@ export default function ProductFilter() {
   </select>
 </div>
   
-<div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+<div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6 w-full">
   {filteredProducts.map((product) => (
     <Link key={product.id} href={`/product/${product.id}`}>
       <div className="border rounded-xl shadow-md p-4 h-[350px]">
@@ -45,7 +45,7 @@ export default function ProductFilter() {
             alt={product.name}
             width={400}
             height={250}
-            className="rounded-md h-[150px]"
+            className="rounded-md sm:h-[200px] w-4/5 mx-auto object-cover"
           />
         )}
         <h2 className="text-xl font-semibold mt-4">{product.name}</h2>
