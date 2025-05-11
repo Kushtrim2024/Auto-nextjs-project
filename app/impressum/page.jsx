@@ -1,13 +1,9 @@
 "use client";
 const Impressum = () => {
   return (
-
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6 -mt-62 ">
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6 -mt-35 ">
       <div className="bg-white shadow-lg rounded-2xl max-w-4xl w-full p-8">
-        <h1 className="text-4xl font-bold text-blue-950 mb-6">
-         Impressum
-
-        </h1>
+        <h1 className="text-4xl font-bold text-blue-950 mb-6">Impressum</h1>
 
         <div className="text-lg text-gray-700 space-y-4">
           <p>
@@ -36,9 +32,7 @@ const Impressum = () => {
           </p>
 
           <p>
-
             <strong>Managing Director:</strong> Cihan, Randy and Kushtrim
-
           </p>
 
           <p>
@@ -46,15 +40,17 @@ const Impressum = () => {
           </p>
 
           <p>
-            <strong className="text-base sm:text-xs md:text-base lg:text-lg xl:text-xl">EU Online Dispute Resolution Platform:</strong>
-            <a
-              href="https://ec.europa.eu/consumers/odr"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 text-base sm:text-xs md:text-base lg:text-lg xl:text-xl"
-            >
-              https://ec.europa.eu/consumers/odr
-            </a>
+            <strong className="text-base sm:text-xs md:text-base lg:text-lg xl:text-xl">
+              EU Online Dispute Resolution Platform:
+            </strong>
+          </p>
+          <p
+            href="https://ec.europa.eu/consumers/odr"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 text-base sm:text-xs md:text-base lg:text-lg xl:text-xl"
+          >
+            https://ec.europa.eu/consumers/odr
           </p>
 
           <p className="text-sm text-gray-500">
