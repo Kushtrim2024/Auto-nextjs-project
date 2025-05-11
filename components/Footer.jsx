@@ -90,7 +90,7 @@ export default function Footer() {
             <h2 className="text-lg font-semibold mb-2">FOLLOW US</h2>
             <div className="social-icons">
               <Link
-                href="https://github.com/new-react-projekt/Auto-nextjs-project"
+                href="https://github.com/Kushtrim2024/Auto-nextjs-project"
                 target="_blank"
               >
                 <i className="fa-brands fa-github" />
