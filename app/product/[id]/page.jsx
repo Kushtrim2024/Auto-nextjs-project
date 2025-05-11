@@ -22,7 +22,19 @@ import {
 export default function ProductDetail({ params }) {
   const { id } = use(params);
 
-  const [showPhone, setShowPhone] = useState(false);
+ const [visiblePhones, setVisiblePhones] = useState(new Set());
+
+ const togglePhone = (id) => {
+    setVisiblePhones((prev) => {
+      const newSet = new Set(prev);
+      if (newSet.has(id)) {
+        newSet.delete(id);
+      } else {
+        newSet.add(id);
+      }
+      return newSet;
+    });
+  };
 
   const product = products.find((p) => p.id.toString() === id);
 
@@ -100,11 +112,13 @@ export default function ProductDetail({ params }) {
               </Link>
 
               <button
-                onClick={() => setShowPhone(true)}
-                className="bg-blue-500 hover:bg-blue-400 cursor-pointer p-2 rounded-lg shadow-md text-xs text-white"
-              >
-                {showPhone ? product.sellerPhone : "Show Phone Number"}
-              </button>
+                  onClick={() => togglePhone(product.id)}
+                  className="bg-blue-500 hover:bg-blue-400 cursor-pointer p-2 rounded-lg shadow-md text-xs text-white"
+                >
+                  {visiblePhones.has(product.id)
+                    ? product.sellerPhone
+                    : "Show Phone Number"}
+                </button>
             </div>
           </div>
         </div>
